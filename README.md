@@ -42,7 +42,7 @@ curl -Ls https://astral.sh/uv/install.sh | sh
 ```
 - Clone the repo and set up the environment (this will install the required dependencies):
 ```bash
-git clone https://github.com/Brucedh/aws-ireveal-mcp.git
+git clone https://github.com/sysdiglabs/aws-ireveal-mcp.git
 cd aws-ireveal-mcp
 uv venv
 source .venv/bin/activate
